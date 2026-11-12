@@ -1,0 +1,40 @@
+{
+  "job_id": "26d859536ba2",
+  "original_source": {
+    "path": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+    "sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+    "bytes": 1300904
+  },
+  "current_accepted": null,
+  "versions": [
+    {
+      "version": 1,
+      "path": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\result_v1.png",
+      "sha256": "2a683b4aef9286848ffdff5e18cc1a2145614efe0ddb86bfb6fd2a9faf438325",
+      "parent_version": null,
+      "parent_output": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+      "metadata_path": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\result_v1_metadata.json",
+      "status": "candidate",
+      "created_at_unix": 1793950791,
+      "validations": {
+        "outputs": [
+          {
+            "decoded": "passed",
+            "dimensions": "passed",
+            "width": 1152,
+            "height": 1536,
+            "format": "PNG"
+          }
+        ],
+        "manual_verification": [
+          "当前素材目标已满足：修改发型为2000年代纽约商务人士侧分短发，保持其他特征和画风"
+        ]
+      },
+      "required_validations": {
+        "visual_review": "pending",
+        "manual_confirmation_1": "pending"
+      }
+    }
+  ],
+  "reservations": []
+}

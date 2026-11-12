@@ -1,0 +1,27 @@
+{
+  "managed": true,
+  "attempts": [
+    {
+      "id": "f4091240ddcc4e40a6017fe71d8d178b",
+      "target": "wangsheng-hair-2000s-nyc:main",
+      "scope_sha256": "964102805e7314c4b35b2da03f39b9be8f68737637f91df588e8e3c3218f58e3",
+      "phase": "registered",
+      "operation": "generation",
+      "started_at": 1793950766,
+      "output": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\result_v1.png",
+      "build": {
+        "skill_version": "1.9.5",
+        "skill_md_sha256": "92ffacd53b3f0fa8c52b2d273277e6968fccc58242a93d1a15894b9b393b6bff",
+        "bundle_sha256": "e1291806b25268480b414d4b580d6d2b5fe270826c6e4fe726bff334879bdb40"
+      },
+      "recovery_sha256": "dcc8230e67f01494648aa040be0b2907ba160c20054914342cfba158ffe01314",
+      "response_file": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\attempts\\f4091240ddcc4e40a6017fe71d8d178b\\response.json",
+      "response_sha256": "bd9008ad413757fdcf2610702bef63a38624e6a5322fbb3a722d240d5dc81047",
+      "result_status": "candidate",
+      "metadata_file": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\result_v1_metadata.json",
+      "finished_at": 1793950791,
+      "exit_code": 0
+    }
+  ],
+  "steps": []
+}

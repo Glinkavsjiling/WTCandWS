@@ -1,0 +1,19 @@
+{
+  "attempts": [
+    {
+      "id": "ca2d71dfddeb428e8f7aa92cbbffdcaa",
+      "target": "linpianpian-outfit-change:main",
+      "scope_sha256": "808f83b3fe175be78abe588fc63f9f2639e60cd23d8c487e6d63a1067623f301",
+      "phase": "registered",
+      "started_at": 1793172279,
+      "output": "C:\\Users\\ACER\\.easyclaw\\workspace\\linpianpian_edit\\result_v1.png",
+      "recovery_sha256": "b1969edce657fd291a89eefc836d7b12a1a4e9c3b5dfa7c1f8e026ed45309a9f",
+      "response_file": "C:\\Users\\ACER\\.easyclaw\\workspace\\linpianpian_edit\\attempts\\ca2d71dfddeb428e8f7aa92cbbffdcaa\\response.json",
+      "response_sha256": "20bcdc473d9ebb21b9b8665a54a3dd3c9315cff5ada0dc1656bdcb2a9b42d5d6",
+      "result_status": "candidate",
+      "metadata_file": "C:\\Users\\ACER\\.easyclaw\\workspace\\linpianpian_edit\\result_v1_metadata.json",
+      "finished_at": 1793172309,
+      "exit_code": 0
+    }
+  ]
+}

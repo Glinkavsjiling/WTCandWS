@@ -1,0 +1,22 @@
+Image 1: anime character illustration reference
+
+Change:
+- Headwear: add a white headband/hairband on top of the head
+- Upper body clothing: replace with a white women's dress shirt (buttoned, with collar) underneath a green tailored vest/waistcoat in the same muted grey-green tone as the original artwork
+- Lower body clothing: replace the long skirt with a black knee-length pencil skirt, slim fitted
+- Legs: add sheer black stockings/tights
+- Shoes: replace with brown leather loafers
+
+Keep:
+- Anime 2D illustration art style, soft cel-shading, delicate linework
+- Soft muted grey-green color palette
+- Character's face, facial features, and expression
+- Long straight black hair
+- Gentle posture with hands clasped in front
+- Pure white background
+
+Avoid:
+- Realistic or photorealistic style
+- 3D rendering
+- Changing face, hairstyle, or hair color
+- Adding extra accessories besides the white headband

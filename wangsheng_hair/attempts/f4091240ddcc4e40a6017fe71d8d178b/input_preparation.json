@@ -1,0 +1,29 @@
+[
+  {
+    "source_path": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+    "source_sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+    "source_bytes": 1300904,
+    "source_size": [
+      832,
+      1280
+    ],
+    "display_size": [
+      832,
+      1280
+    ],
+    "sent_size": [
+      832,
+      1280
+    ],
+    "sent_bytes": 1300904,
+    "sent_sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+    "mime_type": "image/png",
+    "original_bytes_reused": true,
+    "exif_orientation_applied": false,
+    "resized": false,
+    "reference_matte": null,
+    "pixel_ceiling": 2560000,
+    "local_byte_budget": 5000000,
+    "jpeg_quality95_fallback": false
+  }
+]

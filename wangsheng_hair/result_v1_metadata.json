@@ -1,0 +1,99 @@
+{
+  "created_at_unix": 1793950791,
+  "producer_build": {
+    "skill_version": "1.9.5",
+    "skill_md_sha256": "92ffacd53b3f0fa8c52b2d273277e6968fccc58242a93d1a15894b9b393b6bff",
+    "bundle_sha256": "e1291806b25268480b414d4b580d6d2b5fe270826c6e4fe726bff334879bdb40"
+  },
+  "finisher_build": {
+    "skill_version": "1.9.5",
+    "skill_md_sha256": "92ffacd53b3f0fa8c52b2d273277e6968fccc58242a93d1a15894b9b393b6bff",
+    "bundle_sha256": "e1291806b25268480b414d4b580d6d2b5fe270826c6e4fe726bff334879bdb40"
+  },
+  "requested_size": "1152x1536",
+  "generation_size": "1152x1536",
+  "final_resize": null,
+  "edit_mode": "object",
+  "result_status": "candidate",
+  "validations": {
+    "outputs": [
+      {
+        "decoded": "passed",
+        "dimensions": "passed",
+        "width": 1152,
+        "height": 1536,
+        "format": "PNG"
+      }
+    ],
+    "manual_verification": [
+      "当前素材目标已满足：修改发型为2000年代纽约商务人士侧分短发，保持其他特征和画风"
+    ]
+  },
+  "required_validations": {
+    "visual_review": "pending",
+    "manual_confirmation_1": "pending"
+  },
+  "lineage": {
+    "job_id": "26d859536ba2",
+    "version": 1,
+    "parent_version": null,
+    "parent_output": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+    "parent_sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+    "original_source": {
+      "path": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+      "sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+      "bytes": 1300904
+    },
+    "manifest_path": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\.image-gen-26d859536ba2-versions.json"
+  },
+  "registration_status": "registered",
+  "source_assets": [
+    {
+      "path": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+      "sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+      "bytes": 1300904,
+      "width": 832,
+      "height": 1280
+    }
+  ],
+  "attempt_id": "f4091240ddcc4e40a6017fe71d8d178b",
+  "output_sha256": {
+    "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\result_v1.png": "2a683b4aef9286848ffdff5e18cc1a2145614efe0ddb86bfb6fd2a9faf438325"
+  },
+  "output_paths": [
+    "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\result_v1.png"
+  ],
+  "usage": {
+    "input_images": 1,
+    "generated_images": 1,
+    "output_tokens": 6912,
+    "total_tokens": 6912
+  },
+  "request": {
+    "model": "bytepluses.seedream-5.0-pro",
+    "prompt": "Image 1: anime character illustration reference\n\nChange:\n- Hairstyle only: replace the long hair with a 2000s New York business professional men's hairstyle - classic side-parted short hair, neat and polished, professional corporate look like Wall Street executive in early 2000s, similar to Don Draper style. Hair should be dark brown/black, short on sides and back, slightly longer on top with clean side part, styled with product for a sleek professional appearance\n\nKeep:\n- Anime/semi-realistic art style, soft cel-shading\n- Character's face, facial features, and expression\n- Brown three-piece suit (jacket, vest, white shirt, brown tie)\n- Overall posture and composition\n- Warm brown color palette\n- Pure white/cream background\n\nAvoid:\n- Changing clothing, suit, or tie\n- Changing face or facial features\n- Realistic/photorealistic style\n- Adding accessories\n- Changing body proportions\n\n以下为已确认任务要求，不得忽略或改写其事实：\n- 原始用户需求：将王生的发型改成千禧年美国纽约白领风格\n- 当前素材目标：修改发型为2000年代纽约商务人士侧分短发，保持其他特征和画风\n必须满足并逐项验收：\n- 当前素材目标已满足：修改发型为2000年代纽约商务人士侧分短发，保持其他特征和画风",
+    "size": "1152x1536",
+    "output_format": "png",
+    "response_format": "b64_json",
+    "watermark": false,
+    "image": "<data-url image/png; 1734562 chars>"
+  },
+  "response": {
+    "model": "doubao-seedream-5-0-pro-260628",
+    "created": 1793950796,
+    "data": [
+      {
+        "b64_json": "<base64 image; 3937372 chars>",
+        "size": "1152x1536",
+        "output_format": "png",
+        "background": "opaque"
+      }
+    ],
+    "usage": {
+      "input_images": 1,
+      "generated_images": 1,
+      "output_tokens": 6912,
+      "total_tokens": 6912
+    }
+  }
+}

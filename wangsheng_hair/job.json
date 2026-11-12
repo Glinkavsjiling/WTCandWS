@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "job_id": "wangsheng-hair-2000s-nyc",
+  "request": {
+    "message_id": "webchat-1794038284000",
+    "text": "将王生的发型改成千禧年美国纽约白领风格"
+  },
+  "assets": [
+    {
+      "id": "main",
+      "goal": "修改发型为2000年代纽约商务人士侧分短发，保持其他特征和画风"
+    }
+  ],
+  "max_attempts": 2,
+  "planned_images": 1,
+  "scope": "visual",
+  "questions": [],
+  "locked_text": [],
+  "text_policy": "required"
+}

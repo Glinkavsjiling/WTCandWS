@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "output": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\result_v1.png",
+  "requested_size": "1152x1536",
+  "generation_size": "1152x1536",
+  "final_resize": null,
+  "edit_mode": "object",
+  "lineage": {
+    "job_id": "26d859536ba2",
+    "version": 1,
+    "parent_version": null,
+    "parent_output": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+    "parent_sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+    "original_source": {
+      "path": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+      "sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+      "bytes": 1300904
+    },
+    "manifest_path": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\.image-gen-26d859536ba2-versions.json"
+  },
+  "source_assets": [
+    {
+      "path": "C:\\Users\\ACER\\Downloads\\WTC and WS\\image_607207755738772.png",
+      "sha256": "aedc12d9965b89723ffbe82cefaf363693918e82b5b25b88f1244980fc489e6c",
+      "bytes": 1300904,
+      "width": 832,
+      "height": 1280
+    }
+  ],
+  "mask": null,
+  "roi": null,
+  "expected_text": null,
+  "qr_payload": null,
+  "forbid_extra_text": false,
+  "manual_verification": [
+    "当前素材目标已满足：修改发型为2000年代纽约商务人士侧分短发，保持其他特征和画风"
+  ],
+  "producer_build": {
+    "skill_version": "1.9.5",
+    "skill_md_sha256": "92ffacd53b3f0fa8c52b2d273277e6968fccc58242a93d1a15894b9b393b6bff",
+    "bundle_sha256": "e1291806b25268480b414d4b580d6d2b5fe270826c6e4fe726bff334879bdb40"
+  }
+}

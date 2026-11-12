@@ -1,0 +1,26 @@
+{
+  "file": {
+    "path": "C:\\Users\\ACER\\.easyclaw\\workspace\\wangsheng_hair\\attempts\\f4091240ddcc4e40a6017fe71d8d178b\\processed_34274df3f0de40128c590c7e158e75ea.png",
+    "sha256": "2a683b4aef9286848ffdff5e18cc1a2145614efe0ddb86bfb6fd2a9faf438325",
+    "bytes": 2953028
+  },
+  "validations": {
+    "outputs": [
+      {
+        "decoded": "passed",
+        "dimensions": "passed",
+        "width": 1152,
+        "height": 1536,
+        "format": "PNG"
+      }
+    ],
+    "manual_verification": [
+      "当前素材目标已满足：修改发型为2000年代纽约商务人士侧分短发，保持其他特征和画风"
+    ]
+  },
+  "required_validations": {
+    "visual_review": "pending",
+    "manual_confirmation_1": "pending"
+  },
+  "result_status": "candidate"
+}

@@ -1,0 +1,22 @@
+{
+  "file": {
+    "path": "C:\\Users\\ACER\\.easyclaw\\workspace\\linpianpian_edit\\attempts\\ca2d71dfddeb428e8f7aa92cbbffdcaa\\processed_8592fdd2085e4211afbb0aa2f18ea529.png",
+    "sha256": "2223f9f1f29fb7b4cb12fd15e43ab60844374c285728d4cf7adf00c584f2fa28",
+    "bytes": 1423976
+  },
+  "validations": {
+    "outputs": [
+      {
+        "decoded": "passed",
+        "dimensions": "passed",
+        "width": 1152,
+        "height": 1536,
+        "format": "PNG"
+      }
+    ]
+  },
+  "required_validations": {
+    "visual_review": "pending"
+  },
+  "result_status": "candidate"
+}

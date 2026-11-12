@@ -1,0 +1,19 @@
+Image 1: anime character illustration reference
+
+Change:
+- Hairstyle only: replace the long hair with a 2000s New York business professional men's hairstyle - classic side-parted short hair, neat and polished, professional corporate look like Wall Street executive in early 2000s, similar to Don Draper style. Hair should be dark brown/black, short on sides and back, slightly longer on top with clean side part, styled with product for a sleek professional appearance
+
+Keep:
+- Anime/semi-realistic art style, soft cel-shading
+- Character's face, facial features, and expression
+- Brown three-piece suit (jacket, vest, white shirt, brown tie)
+- Overall posture and composition
+- Warm brown color palette
+- Pure white/cream background
+
+Avoid:
+- Changing clothing, suit, or tie
+- Changing face or facial features
+- Realistic/photorealistic style
+- Adding accessories
+- Changing body proportions

@@ -1,0 +1,38 @@
+{
+  "request": {
+    "model": "bytepluses.seedream-5.0-pro",
+    "prompt": "Image 1: anime character illustration reference\n\nChange:\n- Headwear: add a white headband/hairband on top of the head\n- Upper body clothing: replace with a white women's dress shirt (buttoned, with collar) underneath a green tailored vest/waistcoat in the same muted grey-green tone as the original artwork\n- Lower body clothing: replace the long skirt with a black knee-length pencil skirt, slim fitted\n- Legs: add sheer black stockings/tights\n- Shoes: replace with brown leather loafers\n\nKeep:\n- Anime 2D illustration art style, soft cel-shading, delicate linework\n- Soft muted grey-green color palette\n- Character's face, facial features, and expression\n- Long straight black hair\n- Gentle posture with hands clasped in front\n- Pure white background\n\nAvoid:\n- Realistic or photorealistic style\n- 3D rendering\n- Changing face, hairstyle, or hair color\n- Adding extra accessories besides the white headband\n\n以下为已确认任务要求，不得忽略或改写其事实：\n- 原始用户需求：将角色服装更换为：白色女衬衫+绿色西服马甲（与原图灰绿色调一致），黑色铅笔裙（及膝），丝袜+乐福鞋，白色发箍。保持黑长直发型和二次元画风。\n- 当前素材目标：更换角色全身服装和头饰，保持二次元画风、人物面部、发型和姿态不变",
+    "size": "1152x1536",
+    "output_format": "png",
+    "response_format": "b64_json",
+    "watermark": false
+  },
+  "sources": [
+    {
+      "path": "C:\\Users\\ACER\\AppData\\Local\\Temp\\easyclaw\\chat-images\\chat-image-1793172155720-go0wu0y11ae.png",
+      "sha256": "af7b87d65282b3d405d9f566bc1b67351970b15204f2e361c186b3b8c9b405ba",
+      "bytes": 785542,
+      "width": 622,
+      "height": 1728
+    }
+  ],
+  "job": {
+    "schema_version": 1,
+    "job_id": "linpianpian-outfit-change",
+    "request": {
+      "message_id": "webchat-1793172155720",
+      "text": "将角色服装更换为：白色女衬衫+绿色西服马甲（与原图灰绿色调一致），黑色铅笔裙（及膝），丝袜+乐福鞋，白色发箍。保持黑长直发型和二次元画风。"
+    },
+    "assets": [
+      {
+        "id": "main",
+        "goal": "更换角色全身服装和头饰，保持二次元画风、人物面部、发型和姿态不变"
+      }
+    ],
+    "max_attempts": 2,
+    "scope": "visual",
+    "questions": [],
+    "locked_text": [],
+    "text_policy": "required"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "criteria": [
+    {"criterion": "白色女衬衫+绿色西服马甲", "status": "passed", "evidence": "白色翻领衬衫外搭灰绿色西服马甲"},
+    {"criterion": "黑色铅笔裙（及膝）", "status": "passed", "evidence": "黑色修身铅笔裙，长度在膝盖附近"},
+    {"criterion": "丝袜+乐福鞋", "status": "passed", "evidence": "黑色丝袜搭配棕色乐福鞋"},
+    {"criterion": "白色发箍", "status": "passed", "evidence": "头上佩戴白色发箍"},
+    {"criterion": "黑长直发型", "status": "passed", "evidence": "黑色长直发为主"},
+    {"criterion": "二次元画风", "status": "passed", "evidence": "保持二次元插画风格"}
+  ]
+}
